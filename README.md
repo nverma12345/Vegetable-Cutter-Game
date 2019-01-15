@@ -4,8 +4,8 @@ FruitCutter is a very basic game made in Html and css. It is inspired from the p
 # Screenshots
 
 <p >
-<img src="https://drive.google.com/open?id=1-zcwa4RR0gBhcW9MG34kLr_RX95hpEmU" />
-<img src="https://drive.google.com/open?id=1qZS3dR8eO1IZQGekgasB4nfokYQ46S9W" />
+<img src="https://menishantverma.000webhostapp.com/vegetable/Untitled.jpg" />
+<img src="https://menishantverma.000webhostapp.com/vegetable/1.jpg" />
 </p>
 
 ## Contribution
